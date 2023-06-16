@@ -24,16 +24,23 @@ export const Secondary = {
   },
 };
 
+export const ExtraLarge = {
+  args: {
+    size: 'xl',
+    label: 'Button',
+  },
+};
+
 export const Large = {
   args: {
-    size: 'large',
+    size: 'lg',
     label: 'Button',
   },
 };
 
 export const Small = {
   args: {
-    size: 'small',
+    size: 'sm',
     label: 'Button',
   },
 };
